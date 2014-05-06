@@ -1,0 +1,9 @@
+.carousel {
+	background: url('../img/protest.jpg') no-repeat center center;
+	height: 800px;
+}
+
+.item {
+	margin-top: 100px;
+}
+
